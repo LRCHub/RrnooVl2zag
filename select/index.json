@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "告白マカロナージュ",
+  "base_artist": "ドレスコード",
+  "createdAt": "2026-02-19T07:37:11.881502Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "告白マカロナージュ",
+      "artist": "ドレスコード",
+      "has_synced": false,
+      "path": "select/pl_01_告白マカロナージュ_ドレスコード.txt"
+    }
+  ]
+}
